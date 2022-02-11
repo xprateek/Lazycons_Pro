@@ -1,43 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg
-   viewBox="0 0 24 24"
-   version="1.1"
-   id="svg5"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   sodipodi:docname="picsart.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview7"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="1"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="1"
-     inkscape:pagecheckerboard="0"
-     inkscape:document-units="px"
-     showgrid="false"
-     inkscape:object-nodes="false"
-     inkscape:showpageshadow="false"
-     inkscape:snap-page="true"
-     units="px"
-     inkscape:zoom="22.715805"
-     inkscape:cx="7.5057873"
-     inkscape:cy="7.7479094"
-     inkscape:window-width="2560"
-     inkscape:window-height="1011"
-     inkscape:window-x="0"
-     inkscape:window-y="32"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg5" />
-  <defs
-     id="defs2" />
-  <path
-     id="path871"
-     style="display:inline;fill:#000000;stroke-width:0.175629"
-     d="M 11.999983,2.0000003 C 8.1725623,2.0071114 5.0383953,5.0852795 4.9112554,8.9620397 h -0.011967 v 0.1692631 c -0.00178,0.02336 -0.00344,0.04664 -0.00489,0.07003 0.00144,0.02322 0.00311,0.04645 0.00489,0.06968 V 21.9652 L 7.8054557,22 v -7.06163 c 1.2354942,0.965633 2.6343133,1.457535 4.1945263,1.463975 3.924232,-4.8e-5 7.105468,-3.223979 7.105619,-7.2009852 3.9e-5,-3.9771425 -3.181254,-7.2012863 -7.105619,-7.2013339 z m -0.02218,2.7522282 c 2.362709,4.78e-5 4.278047,1.9766751 4.278082,4.4149673 1.58e-4,2.4384372 -1.915236,4.4152822 -4.278082,4.4153302 C 9.6149593,13.582478 7.6995649,11.605633 7.6997227,9.1671958 7.6997582,6.7289036 9.6150953,4.7522763 11.977803,4.7522285 Z"
-     sodipodi:nodetypes="ccccccccccccccccc" />
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="192pt" height="192pt" viewBox="0 0 192 192" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<g id="#815cd5ff">
+<path fill="#815cd5" opacity="1.00" d=" M 40.39 58.38 C 46.95 37.62 66.24 21.45 87.94 19.05 C 115.44 15.21 143.97 33.65 151.56 60.39 C 158.43 82.60 149.98 108.45 131.57 122.56 C 115.98 135.26 94.58 137.02 75.64 132.19 C 75.60 139.79 75.72 147.38 75.57 154.97 C 75.22 164.47 66.52 172.77 57.02 172.69 C 49.64 172.96 42.25 168.50 39.27 161.71 C 36.64 156.18 37.65 149.91 37.45 144.00 C 37.25 126.34 37.57 108.69 37.16 91.04 C 36.92 80.09 37.07 68.91 40.39 58.38 M 87.40 30.57 C 66.38 34.27 49.27 53.60 48.65 75.02 C 47.74 93.46 59.02 111.54 75.72 119.23 C 95.03 128.74 120.27 122.39 132.90 104.99 C 144.34 90.39 145.60 68.86 136.00 53.00 C 126.51 36.43 106.22 26.84 87.40 30.57 M 47.31 112.10 C 47.49 126.60 47.01 141.13 47.53 155.62 C 48.90 164.21 62.33 165.29 65.08 157.04 C 66.48 149.83 65.32 142.32 65.70 135.00 C 65.44 131.79 66.67 127.60 63.57 125.40 C 58.20 120.92 52.73 116.53 47.31 112.10 Z" />
+<path fill="#815cd5" opacity="1.00" d=" M 89.40 46.51 C 106.99 42.48 125.07 57.25 125.64 75.04 C 127.47 92.15 111.96 107.94 95.00 107.50 C 78.97 108.02 64.47 94.08 64.17 78.08 C 62.91 63.08 74.61 48.75 89.40 46.51 M 91.44 57.68 C 82.09 59.28 74.76 68.46 75.46 77.96 C 75.92 88.27 85.77 96.90 96.03 96.15 C 106.90 95.68 115.89 84.73 114.10 73.97 C 112.74 63.53 101.80 55.60 91.44 57.68 Z" />
+</g>
 </svg>
