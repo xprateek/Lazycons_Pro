@@ -8266,9 +8266,8 @@
     <icon drawable="@drawable/mtmanager" package="bin.mt.plus" name="mt_manager"/>
     <icon drawable="@drawable/mtmanager" package="bin.mt.plus.canary" name="mt_manager"/>
     <icon drawable="@drawable/mygov_india" package="in.mygov.mobile" name="mygov_india"/>
-    <icon drawable="@drawable/gsrts" package="com.gsrtc.mobileweb" name="GSRTC"/>
     <icon drawable="@drawable/yasnac" package="rikka.safetynetchecker" name="YASNAC"/>
-    <icon drawable="@drawable/lawnicons" package="app.lawnchair.lawnicons" name="Lawnicons" />
+    <icon drawable="@drawable/ic_lazycons" package="app.lawnchair.lawnicons" name="LazyconsPro" />
     <icon drawable="@drawable/lawnchair_new" package="app.lawnchair" name="Lawnchair" />
     <icon drawable="@drawable/rblmycard" package="com.rbl.rblmycard" name="RBL My Card" />
     <icon drawable="@drawable/yonolite" package="com.sbi.SBIFreedomPlus" name="YONO LITE SBI" />
