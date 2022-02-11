@@ -1,0 +1,34 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="256dp"
+    android:height="256dp"
+    android:viewportWidth="192"
+    android:viewportHeight="192">
+    <path
+        android:fillColor="#FF978A8E"
+        android:fillAlpha="1"
+        android:pathData="M66.2 44.56c8.13-13.47 20.62-24.11 34.88-30.61 21.52 0.7 42.36 11.42 56.42 27.63-29.5-11.06-62.27-7.91-91.3 2.98Z"/>
+    <path
+        android:fillColor="#FF978A8E"
+        android:fillAlpha="1"
+        android:pathData="M25.58 53.93C37.22 33.34 58.7 18.64 82 14.76 56.97 34.78 41.35 64.97 37.96 96.72 30.63 83.7 26.22 68.86 25.58 53.93Z"/>
+    <path
+        android:fillColor="#FF978A8E"
+        android:fillAlpha="1"
+        android:pathData="M127.78 40.22c13.33 2.68 25.98 8.32 37.51 15.46 1.61 1.06 3.49 2.03 4.28 3.9 10.57 21.44 11.28 47.7 1.2 69.45-3.03-33.7-20.2-64.42-42.99-88.81Z"/>
+    <path
+        android:fillColor="#FF978A8E"
+        android:fillAlpha="1"
+        android:pathData="M91.35 58.4c16.33-2.27 33.3 7.79 39.15 23.18 5.91 14.24 1.78 31.91-10.01 41.89-11.13 10.13-28.7 12.2-41.89 4.98-13.44-6.9-21.63-22.53-19.59-37.52 1.7-16.56 15.8-30.71 32.34-32.53m2.08 11.15c-13.09 1.01-24.11 13.31-23.36 26.48-0.22 14.05 12.9 26.35 26.89 25.41 14.08-0.19 26.12-13.51 24.93-27.52-0.48-14.23-14.31-26.13-28.46-24.37Z"/>
+    <path
+        android:fillColor="#FF978A8E"
+        android:fillAlpha="1"
+        android:pathData="M21.5 129.53c-9.16-19.26-9.8-42.4-2.3-62.33 4.92 31.24 22.37 58.58 42.25 82.46-13.92-5.32-27.83-11.35-39.95-20.13Z"/>
+    <path
+        android:fillColor="#FF978A8E"
+        android:fillAlpha="1"
+        android:pathData="M102.39 177.38c26.37-17.32 46.58-43.32 56.9-73.13 2.3 12.11 4.31 24.43 3.83 36.8 0.15 2.18-1.53 3.76-2.72 5.38-13.89 17.76-35.4 29.64-58.01 30.95Z"/>
+    <path
+        android:fillColor="#FF978A8E"
+        android:fillAlpha="1"
+        android:pathData="M32.4 147.26c28.35 11.94 59.98 12.12 89.88 7.04-10.2 9.27-21.75 17.21-34.26 22.99-21.6-1.78-42.15-13.09-55.62-30.03Z"/>
+</vector>
