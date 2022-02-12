@@ -1,7 +1,7 @@
 <h1 align="center"> Lazycons Pro</h1>
 
-<p align="center"> <img src="https://raw.githubusercontent.com/prateekmaru/Lazycons_Pro/main/ss/Readme.png?token=GHSAT0AAAAAABRPUZDWCH2Q2JVOS5Y6J5MCYQGYPAA"/> </p>
-<p align="center"> <img src="https://raw.githubusercontent.com/prateekmaru/Lazycons_Pro/main/ss/ss.png?token=GHSAT0AAAAAABRPUZDWZ5JVAKSZ7PCVO4OKYQGYPEA"/> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/47496067/153697759-8c1e3b69-947b-4537-b0ac-b6240ca33de5.png"> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/47496067/153664096-a38c0385-6dce-4fb7-acfb-5e5842f8262c.png"> </p>
 
 <br>
 <p align="center"> <b><i> Android 12 Themed Icons for you... </i></b> </p>
